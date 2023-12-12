@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\kitapsınavornk\kitapsınavornk\bin\Debug\kitapsınavornk.exe.config
+C:\Users\User\source\repos\kitapsınavornk\kitapsınavornk\bin\Debug\kitapsınavornk.exe
+C:\Users\User\source\repos\kitapsınavornk\kitapsınavornk\bin\Debug\kitapsınavornk.pdb
+C:\Users\User\source\repos\kitapsınavornk\kitapsınavornk\obj\Debug\kitapsınavornk.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\kitapsınavornk\kitapsınavornk\obj\Debug\kitapsınavornk.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\kitapsınavornk\kitapsınavornk\obj\Debug\kitapsınavornk.Form1.resources
+C:\Users\User\source\repos\kitapsınavornk\kitapsınavornk\obj\Debug\kitapsınavornk.Properties.Resources.resources
+C:\Users\User\source\repos\kitapsınavornk\kitapsınavornk\obj\Debug\kitapsınavornk.csproj.GenerateResource.cache
+C:\Users\User\source\repos\kitapsınavornk\kitapsınavornk\obj\Debug\kitapsınavornk.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\kitapsınavornk\kitapsınavornk\obj\Debug\kitapsınavornk.exe
+C:\Users\User\source\repos\kitapsınavornk\kitapsınavornk\obj\Debug\kitapsınavornk.pdb
